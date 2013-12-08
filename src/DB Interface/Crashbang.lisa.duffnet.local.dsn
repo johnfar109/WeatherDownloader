@@ -1,0 +1,6 @@
+[ODBC]
+DRIVER=MySQL ODBC 5.2 Unicode Driver
+UID=john
+PORT=3306
+DATABASE=crashbang
+SERVER=lisa.duffnet.local
