@@ -35,7 +35,6 @@
 				<Item Name="Unset Busy.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Unset Busy.vi"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 			</Item>
-			<Item Name="Status Helper" Type="VI" URL="../src/GUI Helpers/Status Helper"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
